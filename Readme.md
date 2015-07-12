@@ -71,14 +71,19 @@ Busco novos conhecimentos e desafios para estar sempre em constante evolução.
 
 1. PHP Experience – iMasters – realizado no dia 25/04/2015 – em São Paulo – SP – como congressista.
     * Carga Horária: 8h
+    * [Site do evento](http://phpexperience.imasters.com.br/)
 2. Devcommerce Conference – iMasters – realizado no dia 20/06/2015 – em São Paulo – SP – como participante.
     * Carga Horária: 8h
+    * [Site do evento](http://devcommerce.imasters.com.br/)
 3. InterCon Arena – iMasters – realizado no dia 15/11/2014 – em São Paulo – SP – como participante.
     * Carga Horária: 8h
+    * [Site do evento](http://intercon.imasters.com.br/)
 4. FrontInterior – realizado nos dias 29 e 30 de agosto de 2014 – em Bauru – SP – como participante.
     * Carga Horária: 11h
+    * [Site do evento](https://www.facebook.com/Frontinterior)
 5. InterCon PHP – iMasters – realizado no dia 19/07/2014 – em São Paulo - SP – como participante.
     * Carga Horária: 8h
+    * [Site do evento](http://interconphp.imasters.com.br/)
 
 * Conhecimento de Inglês: Básico/Intermediário (leitura, escrita e conversação).
 
