@@ -57,7 +57,7 @@ Busco novos conhecimentos e desafios para estar sempre em constante evolução.
 * Graduação em Engenharia de Computação – Faculdades Integradas de Araraquara (Logatti) – Início em fevereiro de 2015 – Término previsto para dezembro de 2019
 * Ensino médio – E.E Ergilia Micelli – Término em dezembro de 2013
 
-## Atividades de Aperfeiçoamento
+## Treinamentos
 
 1. Treinamento Online de PHP Orientado a Objetos - iMasters Cursos – Sob o número A99B473
     * Carga Horária: 24h
@@ -66,15 +66,18 @@ Busco novos conhecimentos e desafios para estar sempre em constante evolução.
     * Início: 03/11/2013
     * Término: 21/11/2013
     * Carga Horária: 20h
-3. PHP Experience – iMasters – realizado no dia 25/04/2015 – em São Paulo – SP – como congressista.
+
+## Eventos
+
+1. PHP Experience – iMasters – realizado no dia 25/04/2015 – em São Paulo – SP – como congressista.
     * Carga Horária: 8h
-4. Devcommerce Conference – iMasters – realizado no dia 20/06/2015 – em São Paulo – SP – como participante.
+2. Devcommerce Conference – iMasters – realizado no dia 20/06/2015 – em São Paulo – SP – como participante.
     * Carga Horária: 8h
-5. InterCon Arena – iMasters – realizado no dia 15/11/2014 – em São Paulo – SP – como participante.
+3. InterCon Arena – iMasters – realizado no dia 15/11/2014 – em São Paulo – SP – como participante.
     * Carga Horária: 8h
-6. FrontInterior – realizado nos dias 29 e 30 de agosto de 2014 – em Bauru – SP – como participante.
+4. FrontInterior – realizado nos dias 29 e 30 de agosto de 2014 – em Bauru – SP – como participante.
     * Carga Horária: 11h
-7. InterCon PHP – iMasters – realizado no dia 19/07/2014 – em São Paulo - SP – como participante.
+5. InterCon PHP – iMasters – realizado no dia 19/07/2014 – em São Paulo - SP – como participante.
     * Carga Horária: 8h
 
 * Conhecimento de Inglês: Básico/Intermediário (leitura, escrita e conversação).
