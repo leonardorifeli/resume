@@ -6,7 +6,7 @@
 
 **Blog:** [leonardorifeli.com](https://willianjusten.com.br)
 
-**E*mail:** [leonardorifeli@gmail.com](mailto:leonardorifeli@gmail.com)
+**E-mail:** [leonardorifeli@gmail.com](mailto:leonardorifeli@gmail.com)
 
 **Linkedin:** [leonardorifeli](http://linkedin.com/in/leonardorifeli){:target="_blank"}
 
@@ -52,16 +52,16 @@ Busco novos conhecimentos e desafios para estar sempre em constante evolução.
 
 >Manutenções em servidores e redes de alta disponibilidades para empresas governamentais como: Polícia Rodoviária e DER (departamento de estradas de rodagem).
 
-##Formação Acadêmica
+## Formação Acadêmica
 
-**Graduação em Engenharia de Computação – Faculdades Integradas de Araraquara (Logatti) – Início em fevereiro de 2015 – Término previsto para dezembro de 2019
-**Ensino médio – E.E Ergilia Micelli – Término em dezembro de 2013
+* Graduação em Engenharia de Computação – Faculdades Integradas de Araraquara (Logatti) – Início em fevereiro de 2015 – Término previsto para dezembro de 2019
+* Ensino médio – E.E Ergilia Micelli – Término em dezembro de 2013
 
 ## Atividades de Aperfeiçoamento
 
 * Curso de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Sob o número 254027
-** Início: 03/11/2013
-** Término: 21/11/2013
+- Início: 03/11/2013
+- Término: 21/11/2013
 ** Carga Horária: 20h
 * PHP Experience – iMasters – realizado no dia 25/04/2015 – em São Paulo – SP – como congressista.
 ** Carga Horária: 8h
