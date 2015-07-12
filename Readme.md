@@ -8,14 +8,14 @@
 
 **E-mail:** [leonardorifeli@gmail.com](mailto:leonardorifeli@gmail.com)
 
-**Linkedin:** [leonardorifeli](http://linkedin.com/in/leonardorifeli){:target="_blank"}
+**Linkedin:** [leonardorifeli](http://linkedin.com/in/leonardorifeli)
 
 **Skype:** leonardorifeli
 
 **Github:** leonardorifeli
 
 ## Sobre mim
-Atuo como desenvolvedor back-end há aproximadamente três anos no mercado Web, desde então venho adquirindo e aprimorando minhas experiências. Estou cursando bacharelado em Engenharia de Computação na [Faculdades Integradas Logatti](http://logatti.edu.br){:target="_blank"}.
+Atuo como desenvolvedor back-end há aproximadamente três anos no mercado Web, desde então venho adquirindo e aprimorando minhas experiências. Estou cursando bacharelado em Engenharia de Computação na [Faculdades Integradas Logatti](http://logatti.edu.br).
 
 Sou comunicativo, organizado e responsável. Meu foco é o trabalho em equipe com projetos desafiadores, com empenho e entusiasmo para solucionar problemas da maneira mais viável.
 
@@ -59,22 +59,25 @@ Busco novos conhecimentos e desafios para estar sempre em constante evolução.
 
 ## Atividades de Aperfeiçoamento
 
-* Curso de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Sob o número 254027
-- Início: 03/11/2013
-- Término: 21/11/2013
-** Carga Horária: 20h
-* PHP Experience – iMasters – realizado no dia 25/04/2015 – em São Paulo – SP – como congressista.
-** Carga Horária: 8h
-* Devcommerce Conference – iMasters – realizado no dia 20/06/2015 – em São Paulo – SP – como participante.
-** Carga Horária: 8h
-* InterCon Arena – iMasters – realizado no dia 15/11/2014 – em São Paulo – SP – como participante.
-** Carga Horária: 8h
-* FrontInterior – realizado nos dias 29 e 30 de agosto de 2014 – em Bauru – SP – como participante.
-** Carga Horária: 11h
-* InterCon PHP – iMasters – realizado no dia 19/07/2014 – em São Paulo - SP – como participante.
-** Carga Horária: 8h
+1. Treinamento Online de PHP Orientado a Objetos - iMasters Cursos – Sob o número A99B473
+    * Carga Horária: 24h
+    * Ministrado por: João Batista Neto
+2. Treinamento Online de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Sob o número 254027
+    * Início: 03/11/2013
+    * Término: 21/11/2013
+    * Carga Horária: 20h
+3. PHP Experience – iMasters – realizado no dia 25/04/2015 – em São Paulo – SP – como congressista.
+    * Carga Horária: 8h
+4. Devcommerce Conference – iMasters – realizado no dia 20/06/2015 – em São Paulo – SP – como participante.
+    * Carga Horária: 8h
+5. InterCon Arena – iMasters – realizado no dia 15/11/2014 – em São Paulo – SP – como participante.
+    * Carga Horária: 8h
+6. FrontInterior – realizado nos dias 29 e 30 de agosto de 2014 – em Bauru – SP – como participante.
+    * Carga Horária: 11h
+7. InterCon PHP – iMasters – realizado no dia 19/07/2014 – em São Paulo - SP – como participante.
+    * Carga Horária: 8h
 
-Conhecimento de Inglês: Básico/Intermediário (leitura, escrita e conversação).
+* Conhecimento de Inglês: Básico/Intermediário (leitura, escrita e conversação).
 
 ## Informações adicionais
 
