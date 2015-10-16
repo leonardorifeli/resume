@@ -2,9 +2,7 @@
 
 **Location:** Araraquara(SP) * Brasil
 
-**Phone Number:** +55 (16) 99756*8990
-
-**Blog:** [leonardorifeli.com](https://willianjusten.com.br)
+**Blog:** [leonardorifeli.com](https://leonardorifeli.com)
 
 **E-mail:** [leonardorifeli@gmail.com](mailto:leonardorifeli@gmail.com)
 
@@ -89,4 +87,4 @@ Busco novos conhecimentos e desafios para estar sempre em constante evolução.
 
 ## Informações adicionais
 
-Desenvolvimento de projetos para: Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, Unesp Araraquara (sviluppumbria), Cosfibel Group, entre outros.
+Desenvolvimento de projetos para: Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, entre outros.
