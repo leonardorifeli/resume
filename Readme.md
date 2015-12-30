@@ -1,10 +1,10 @@
 #Leonardo Rifeli
 
-**Location:** Araraquara(SP) * Brasil
+**Location:** Joinville(SC) * Brasil
 
 **Blog:** [leonardorifeli.com](https://leonardorifeli.com)
 
-**E-mail:** [leonardorifeli@gmail.com](mailto:leonardorifeli@gmail.com)
+**E-mail:** [me@leonardorifeli.com](mailto:me@leonardorifeli.com)
 
 **Linkedin:** [leonardorifeli](http://linkedin.com/in/leonardorifeli)
 
@@ -12,79 +12,80 @@
 
 **Github:** leonardorifeli
 
-## Sobre mim
-Atuo como desenvolvedor back-end há aproximadamente três anos no mercado Web, desde então venho adquirindo e aprimorando minhas experiências. Estou cursando bacharelado em Engenharia de Computação na [Faculdades Integradas Logatti](http://logatti.edu.br).
+## About
+
+Atuo há cerca de três anos no mercado Web, desde então venho adquirindo e aprimorando minhas experiências. Atuo como desenvolvedor back-end na agência taginterativa.com.br. Estou cursando bacharelado em Engenharia de Computação. Contribuo para projetos open source e para a comunidade web como um todo.
 
 Sou comunicativo, organizado e responsável. Meu foco é o trabalho em equipe com projetos desafiadores, com empenho e entusiasmo para solucionar problemas da maneira mais viável.
 
 Busco novos conhecimentos e desafios para estar sempre em constante evolução.
 
-## Skills
+## My Skills
 
 * Linux/OS X;
 * Admin Server Linux;
-* Amazon Cloud;
+* Amazon AWS;
 * PHP;
-* Ruby;
-* Ruby on Rails;
 * C;
-* MySQL * MongoDB;
+* API REST;
+* MySQL - MongoDB;
 * GIT;
 * AngularJS;
 * NodeJS;
 * GruntJS;
 * HTML;
-* Design Responsivo;
-* CSS (Stylus, Sass, Less);
-* CSS Frameworks (Bootstrap, Foundation);
-* Scrum and Kanban;
-* O que eu não sei, tenho facilidade, aprendo rápido.
+* Responsive Design;
+* CSS (Compass, Sass, Less);
+* CSS Frameworks (Bootstrap, Foundation, Skeleton);
+* Scrum;
+* And more Skills;
+* What i do not know, i easily learn fast.
 
-##Experiência Profissional
+##Professional Experience
 
-**Backend** * Wab * 04/2013 * Atual
+**Backend** * Wab * 2013-04 * 2015-12
 
->Atuo no desenvolvimento de aplicações com alta escalabilidade. Com foco principal no back-end, utilizando PHP, MySQL e performance. Todos os projetos possuem o GIT como controle de versão. Também atuo na manutenção e monitoramento de servidores Linux.
+>Atuei no desenvolvimento de aplicações com alta escalabilidade. Com foco principal no back-end, utilizando PHP, MySQL e performance. Todos os projetos possuem o GIT como controle de versão. Também atuo na manutenção e monitoramento de servidores Linux.
 
-**Técnico** * R&G Informática * 08/2012 * 03/2013
+**Técnico** * R&G Informática * 2012-08 * 2013-03
 
 >Manutenções em servidores e redes de alta disponibilidades para empresas governamentais como: Polícia Rodoviária e DER (departamento de estradas de rodagem).
 
-## Formação Acadêmica
+## Academic Education
 
 * Graduação em Engenharia de Computação – Faculdades Integradas de Araraquara (Logatti) – Início em fevereiro de 2015 – Término previsto para dezembro de 2019
 * Ensino médio – E.E Ergilia Micelli – Término em dezembro de 2013
 
-## Treinamentos
+## Training
 
 1. Treinamento Online de PHP Orientado a Objetos - iMasters Cursos – Sob o número A99B473
-    * Carga Horária: 24h
-    * Ministrado por: João Batista Neto
+* Workload: 24h
+* Author: João Batista Neto
 2. Treinamento Online de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Sob o número 254027
-    * Início: 03/11/2013
-    * Término: 21/11/2013
-    * Carga Horária: 20h
+* Start Day: 2013-11-03
+* End Day: 2013-11-21
+* Workload: 20h
 
-## Eventos
+## Events/Workshops
 
-1. PHP Experience – iMasters – realizado no dia 25/04/2015 – em São Paulo – SP – como congressista.
-    * Carga Horária: 8h
-    * [Site do evento](http://phpexperience.imasters.com.br/)
-2. Devcommerce Conference – iMasters – realizado no dia 20/06/2015 – em São Paulo – SP – como participante.
-    * Carga Horária: 8h
-    * [Site do evento](http://devcommerce.imasters.com.br/)
-3. InterCon Arena – iMasters – realizado no dia 15/11/2014 – em São Paulo – SP – como participante.
-    * Carga Horária: 8h
-    * [Site do evento](http://intercon.imasters.com.br/)
-4. FrontInterior – realizado nos dias 29 e 30 de agosto de 2014 – em Bauru – SP – como participante.
-    * Carga Horária: 11h
-    * [Site do evento](https://www.facebook.com/Frontinterior)
-5. InterCon PHP – iMasters – realizado no dia 19/07/2014 – em São Paulo - SP – como participante.
-    * Carga Horária: 8h
-    * [Site do evento](http://interconphp.imasters.com.br/)
+1. PHP Experience – iMasters – held on 2015-04-25 – in São Paulo – SP – as congressman.
+* Workload: 8h
+* [Site do evento](http://phpexperience.imasters.com.br/)
+2. Devcommerce Conference – iMasters – held on 2015-06-20 – in São Paulo – SP – as a participant.
+* Workload: 8h
+* [Site do evento](http://devcommerce.imasters.com.br/)
+3. InterCon Arena – iMasters – held on 2014-11-15 – in São Paulo – SP – as a participant.
+* Workload: 8h
+* [Site do evento](http://intercon.imasters.com.br/)
+4. FrontInterior – held on 2014-08-29 and 2014-08-30 – in Bauru – SP – as a participant.
+* Workload: 11h
+* [Site do evento](https://www.facebook.com/Frontinterior)
+5. InterCon PHP – iMasters – held on 19/07/2014 – in São Paulo - SP – as a participant.
+* Workload: 8h
+* [Site do evento](http://interconphp.imasters.com.br/)
 
-* Conhecimento de Inglês: Básico/Intermediário (leitura, escrita e conversação).
+* English Information: Basic / Intermediate (reading, writing and speaking).
 
-## Informações adicionais
+## Aditional Information
 
-Desenvolvimento de projetos para: Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, entre outros.
+Development projects to: Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, entre outros.
