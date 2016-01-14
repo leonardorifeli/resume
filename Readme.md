@@ -1,6 +1,6 @@
 #Leonardo Rifeli
 
-**Location:** Joinville(SC) * Brasil
+**Location:** Joinville (SC) * Brasil
 
 **Blog:** [leonardorifeli.com](https://leonardorifeli.com)
 
@@ -14,11 +14,11 @@
 
 ## About
 
-Atuo há cerca de três anos no mercado Web, desde então venho adquirindo e aprimorando minhas experiências. Atuo como desenvolvedor back-end na agência taginterativa.com.br. Estou cursando bacharelado em Engenharia de Computação. Contribuo para projetos open source e para a comunidade web como um todo.
+Meu nome é Leonardo Rifeli, tenho 20 anos e resido em Joinville (SC). Estou há cerca de três anos no mercado Web, desde então venho adquirindo e aprimorando minhas experiências. Atualmente sou desenvolvedor back-end na agência (da vaga :D) taginterativa.com.br. Estou cursando bacharelado em Engenharia de Computação. Contribuo para projetos open source e para a comunidade web como um todo.
 
-Sou comunicativo, organizado e responsável. Meu foco é o trabalho em equipe com projetos desafiadores, com empenho e entusiasmo para solucionar problemas da maneira mais viável.
+Sou comunicativo, organizado e responsável. Meu foco é o trabalho em equipe, com empenho e entusiasmo para solucionar problemas da maneira mais viável.
 
-Busco novos conhecimentos e desafios para estar sempre em constante evolução.
+Busco novos conhecimentos e desafios para estar em constante evolução. Desde muito novo sou apaixonado por tecnologia, me adequo há mudanças, sempre procuro aprimorar e transmitir meus conhecimentos.
 
 ## My Skills
 
@@ -32,24 +32,23 @@ Busco novos conhecimentos e desafios para estar sempre em constante evolução.
 * GIT;
 * AngularJS;
 * NodeJS;
-* GruntJS;
 * HTML;
-* Responsive Design;
-* CSS (Compass, Sass, Less);
-* CSS Frameworks (Bootstrap, Foundation, Skeleton);
 * Scrum;
 * And more Skills;
 * What i do not know, i easily learn fast.
 
 ##Professional Experience
 
-**Backend** * Wab * 2013-04 * 2015-12
+**Back-end Developer** * TAG Interativa * 2016-01 * Actual
+>Desenvolvimento de sistemas e sites, modularização de processos, campo de pesquisa para implementação das melhores tecnologias envolvendo. Tendo **PHP** como linguagem padrão.
 
->Atuei no desenvolvimento de aplicações com alta escalabilidade. Com foco principal no back-end, utilizando PHP, MySQL e performance. Todos os projetos possuem o GIT como controle de versão. Também atuo na manutenção e monitoramento de servidores Linux.
+**Full Stack Developer** * Wab * 2013-04 * 2015-12
+
+>Atuei nos diversos processos de desenvolvimento de sistemas e sites. Participando de reuniões para discussões dos mais variados projetos, com participação em todo o processo de desenvolvimento. Tendo **PHP** como linguagem padrão.
 
 **Técnico** * R&G Informática * 2012-08 * 2013-03
 
->Manutenções em servidores e redes de alta disponibilidades para empresas governamentais como: Polícia Rodoviária e DER (departamento de estradas de rodagem).
+>Manutenções em servidores e redes de alta disponibilidade para empresas governamentais como: Polícia Rodoviária e DER (departamento de estradas de rodagem).
 
 ## Academic Education
 
