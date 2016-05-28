@@ -58,9 +58,12 @@ Seek new knowledge and challenges to be constantly evolving. Since very young I 
 ## Training
 
 1. Treinamento Online de PHP Orientado a Objetos - iMasters Cursos – Sob o número A99B473
+
 > Workload: 24h
 > Author: João Batista Neto
+
 2. Treinamento Online de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Sob o número 254027
+
 > Start Day: 2013-11-03
 > End Day: 2013-11-21
 > Workload: 20h
