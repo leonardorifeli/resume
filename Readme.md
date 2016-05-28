@@ -57,13 +57,13 @@ Seek new knowledge and challenges to be constantly evolving. Since very young I 
 
 ## Training
 
-1. Treinamento Online de PHP Orientado a Objetos - iMasters Cursos – Sob o número A99B473
+* Treinamento Online de PHP Orientado a Objetos - iMasters Cursos – Sob o número A99B473
 
 > Workload: 24h
 
 > Author: João Batista Neto
 
-2. Treinamento Online de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Sob o número 254027
+* Treinamento Online de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Sob o número 254027
 
 > Start Day: 2013-11-03
 
@@ -73,24 +73,41 @@ Seek new knowledge and challenges to be constantly evolving. Since very young I 
 
 ## Events/Workshops
 
-1. PHP Experience – iMasters – held on 2015-04-25 – in São Paulo – SP – as congressman.
-* Workload: 8h
-* [Event website](http://phpexperience.imasters.com.br/)
-2. Devcommerce Conference – iMasters – held on 2015-06-20 – in São Paulo – SP – as a participant.
-* Workload: 8h
-* [Event website](http://devcommerce.imasters.com.br/)
-3. InterCon Arena – iMasters – held on 2014-11-15 – in São Paulo – SP – as a participant.
-* Workload: 8h
-* [Event website](http://intercon.imasters.com.br/)
-4. FrontInterior – held on 2014-08-29 and 2014-08-30 – in Bauru – SP – as a participant.
-* Workload: 11h
-* [Event website](https://www.facebook.com/Frontinterior)
-5. InterCon PHP – iMasters – held on 19/07/2014 – in São Paulo - SP – as a participant.
-* Workload: 8h
-* [Event website](http://interconphp.imasters.com.br/)
-6. SC DEV Summit – PHP SC – held on 2016-05-20 and 2016-05-21 – in Joinville - SC – as a participant.
-* Workload: 16h
-* [Event website](http://scdevsummit.com.br/)
+* PHP Experience – iMasters – held on 2015-04-25 – in São Paulo – SP – as congressman.
+
+> Workload: 8h
+> [Event website](http://phpexperience.imasters.com.br/)
+
+* Devcommerce Conference – iMasters – held on 2015-06-20 – in São Paulo – SP – as a participant.
+
+> Workload: 8h
+
+> [Event website](http://devcommerce.imasters.com.br/)
+
+* InterCon Arena – iMasters – held on 2014-11-15 – in São Paulo – SP – as a participant.
+
+> Workload: 8h
+
+> [Event website](http://intercon.imasters.com.br/)
+
+* FrontInterior – held on 2014-08-29 and 2014-08-30 – in Bauru – SP – as a participant.
+
+> Workload: 11h
+
+> [Event website](https://www.facebook.com/Frontinterior)
+
+* InterCon PHP – iMasters – held on 19/07/2014 – in São Paulo - SP – as a participant.
+
+> Workload: 8h
+
+> [Event website](http://interconphp.imasters.com.br/)
+
+* SC DEV Summit – PHP SC – held on 2016-05-20 and 2016-05-21 – in Joinville - SC – as a participant.
+
+> Workload: 16h
+
+> [Event website](http://scdevsummit.com.br/)
+
 
 * English Information: Basic / Intermediate (reading, writing and speaking).
 
