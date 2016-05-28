@@ -14,11 +14,11 @@
 
 ## About
 
-Meu nome é Leonardo Rifeli, tenho 20 anos e resido em Joinville (SC). Estou há cerca de três anos no mercado Web, desde então venho adquirindo e aprimorando minhas experiências. Atualmente sou desenvolvedor back-end na agência (da vaga :D) taginterativa.com.br. Estou cursando bacharelado em Engenharia de Computação. Contribuo para projetos open source e para a comunidade web como um todo.
+My name is Leonardo Rifeli, I'm 20 and I live in Joinville (SC). I'm about three years in the Web market has since come acquiring and honing my experiences. I am currently a back-end developer at the agency (cow: D) taginterativa.com.br. I'm studying a BA in Computer Engineering. Contribute to open source projects and the web community as a whole.
 
-Sou comunicativo, organizado e responsável. Meu foco é o trabalho em equipe, com empenho e entusiasmo para solucionar problemas da maneira mais viável.
+I'm communicative, organized and responsible. My focus is teamwork with commitment and enthusiasm to solve problems in the most viable way.
 
-Busco novos conhecimentos e desafios para estar em constante evolução. Desde muito novo sou apaixonado por tecnologia, me adequo há mudanças, sempre procuro aprimorar e transmitir meus conhecimentos.
+Seek new knowledge and challenges to be constantly evolving. Since very young I am passionate about technology, I adequo there are changes, I always try to improve and pass on my knowledge.
 
 ## My Skills
 
@@ -52,7 +52,7 @@ Busco novos conhecimentos e desafios para estar em constante evolução. Desde m
 
 ## Academic Education
 
-* Graduação em Engenharia de Computação – Faculdades Integradas de Araraquara (Logatti) – Início em fevereiro de 2015 – Término previsto para dezembro de 2019
+* BA in Computer Engineering – UNISOCIESC – Início em fevereiro de 2015 – Término previsto para dezembro de 2019
 * Ensino médio – E.E Ergilia Micelli – Término em dezembro de 2013
 
 ## Training
@@ -69,22 +69,25 @@ Busco novos conhecimentos e desafios para estar em constante evolução. Desde m
 
 1. PHP Experience – iMasters – held on 2015-04-25 – in São Paulo – SP – as congressman.
 * Workload: 8h
-* [Site do evento](http://phpexperience.imasters.com.br/)
+* [Event website](http://phpexperience.imasters.com.br/)
 2. Devcommerce Conference – iMasters – held on 2015-06-20 – in São Paulo – SP – as a participant.
 * Workload: 8h
-* [Site do evento](http://devcommerce.imasters.com.br/)
+* [Event website](http://devcommerce.imasters.com.br/)
 3. InterCon Arena – iMasters – held on 2014-11-15 – in São Paulo – SP – as a participant.
 * Workload: 8h
-* [Site do evento](http://intercon.imasters.com.br/)
+* [Event website](http://intercon.imasters.com.br/)
 4. FrontInterior – held on 2014-08-29 and 2014-08-30 – in Bauru – SP – as a participant.
 * Workload: 11h
-* [Site do evento](https://www.facebook.com/Frontinterior)
+* [Event website](https://www.facebook.com/Frontinterior)
 5. InterCon PHP – iMasters – held on 19/07/2014 – in São Paulo - SP – as a participant.
 * Workload: 8h
-* [Site do evento](http://interconphp.imasters.com.br/)
+* [Event website](http://interconphp.imasters.com.br/)
+6. SC DEV Summit – PHP SC – held on 2016-05-20 and 2016-05-21 – in Joinville - SC – as a participant.
+* Workload: 16h
+* [Event website](http://scdevsummit.com.br/)
 
 * English Information: Basic / Intermediate (reading, writing and speaking).
 
 ## Aditional Information
 
-Development projects to: Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, entre outros.
+Development projects to: Grupo RIC, Notícias do dia, Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, entre outros.
