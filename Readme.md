@@ -18,7 +18,7 @@ My name is Leonardo Rifeli, I'm 20 and I live in Joinville (SC). I'm about three
 
 I'm communicative, organized and responsible. My focus is teamwork with commitment and enthusiasm to solve problems in the most viable way.
 
-Seek new knowledge and challenges to be constantly evolving. Since very young I am passionate about technology, I adequo there are changes, I always try to improve and pass on my knowledge.
+Seek new knowledge and challenges to be constantly evolving. Since very young I am passionate about technology, I suit there are changes, I always try to improve and pass on my knowledge.
 
 ## My Skills
 
