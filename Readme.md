@@ -76,6 +76,7 @@ Seek new knowledge and challenges to be constantly evolving. Since very young I 
 * PHP Experience – iMasters – held on 2015-04-25 – in São Paulo – SP – as congressman.
 
 > Workload: 8h
+
 > [Event website](http://phpexperience.imasters.com.br/)
 
 * Devcommerce Conference – iMasters – held on 2015-06-20 – in São Paulo – SP – as a participant.
