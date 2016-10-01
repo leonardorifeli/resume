@@ -14,7 +14,7 @@
 
 ## About
 
-My name is Leonardo Rifeli, I'm 20 and I live in Joinville (SC). I'm about three years in the Web market has since come acquiring and honing my experiences. I am currently a back-end developer at the agency (cow: D) taginterativa.com.br. I'm studying a BA in Computer Engineering. Contribute to open source projects and the web community as a whole.
+My name is **Leonardo Rifeli**, I'm 20 and I live in Joinville (SC). I'm about three years in the Web market has since come acquiring and honing my experiences. I am currently a software engineer developer at the **[ContaAzul](http://contaazul.com)**. I'm studying a **BA** in **Computer Engineering**. Contribute to open source projects and the web community as a whole.
 
 I'm communicative, organized and responsible. My focus is teamwork with commitment and enthusiasm to solve problems in the most viable way.
 
@@ -22,24 +22,31 @@ Seek new knowledge and challenges to be constantly evolving. Since very young I 
 
 ## My Skills
 
+* Java;
+* PHP (version 5.6 and 7);
 * Linux/OS X;
 * Admin Server Linux;
 * Amazon AWS;
-* PHP;
+* Job Queues;
 * C;
+* C++;
 * API REST;
 * MySQL - MongoDB;
+* Clean code and SOLID;
+* Design Patterns;
 * GIT;
-* AngularJS;
-* NodeJS;
 * HTML;
+* CSS;
 * Scrum;
 * And more Skills;
 * What i do not know, i easily learn fast.
 
 ##Professional Experience
 
-**Back-end Developer** * TAG Interativa * 2016-01 * Actual
+**Software Engineer** * ContaAzul * 2016-09 * actual
+> Atuação como back-end nos desenvolvimentos de experimentos para conversão online. Pesquisas para melhorias internas. Tendo **Java** como linguagem padrão.
+
+**Back-end Developer** * TAG Interativa * 2016-01 * 2016-09
 >Desenvolvimento de sistemas e sites, modularização de processos, campo de pesquisa para implementação das melhores tecnologias envolvendo. Tendo **PHP** como linguagem padrão.
 
 **Full Stack Developer** * Wab * 2013-04 * 2015-12
@@ -52,7 +59,8 @@ Seek new knowledge and challenges to be constantly evolving. Since very young I 
 
 ## Academic Education
 
-* BA in Computer Engineering – UNISOCIESC – Início em fevereiro de 2015 – Término previsto para dezembro de 2019
+* BA in Computer Engineering – UNISOCIESC – Início em fevereiro de 2016 – Término previsto para dezembro de 2019
+* BA in Computer Engineering – Logatti – Início em fevereiro de 2015 – Transfer to **UNISOCIESC**
 * Ensino médio – E.E Ergilia Micelli – Término em dezembro de 2013
 
 ## Training
@@ -114,4 +122,4 @@ Seek new knowledge and challenges to be constantly evolving. Since very young I 
 
 ## Aditional Information
 
-Development projects to: Grupo RIC, Notícias do dia, Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, entre outros.
+Development projects to: Anagê Imóveis, APIs to **Lança Perfume APP**, Grupo RIC, Notícias do dia, Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, entre outros.
