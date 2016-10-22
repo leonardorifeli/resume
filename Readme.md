@@ -14,7 +14,7 @@
 
 ## About
 
-My name is **Leonardo Rifeli**, I'm 20 and I live in Joinville (SC). I'm about three years in the Web market has since come acquiring and honing my experiences. I am currently a software engineer developer at the **[ContaAzul](http://contaazul.com)**. I'm studying a **BA** in **Computer Engineering**. Contribute to open source projects and the web community as a whole.
+My name is **Leonardo Rifeli**, I'm 20 years old and I live in Joinville (SC). I'm about three years in the Web market has since come acquiring and honing my experiences. I am currently a **software engineer** developer at the **[ContaAzul](http://contaazul.com)**. I'm studying a **BA** in **Computer Engineering**. Contribute to open source projects and the web community as a whole.
 
 I'm communicative, organized and responsible. My focus is teamwork with commitment and enthusiasm to solve problems in the most viable way.
 
@@ -65,13 +65,13 @@ Seek new knowledge and challenges to be constantly evolving. Since very young I 
 
 ## Training
 
-* Treinamento Online de PHP Orientado a Objetos - iMasters Cursos – Sob o número A99B473
+* Treinamento Online de PHP Orientado a Objetos - iMasters Cursos – Number A99B473
 
 > Workload: 24h
 
 > Author: João Batista Neto
 
-* Treinamento Online de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Sob o número 254027
+* Treinamento Online de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Number 254027
 
 > Start Day: 2013-11-03
 
