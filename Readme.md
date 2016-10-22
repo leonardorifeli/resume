@@ -25,15 +25,13 @@ Seek new knowledge and challenges to be constantly evolving. Since very young I 
 * Java;
 * PHP (version 5.6 and 7);
 * Linux/OS X;
-* Admin Server Linux;
 * Amazon AWS;
 * Job Queues;
-* C;
-* C++;
 * API REST;
 * MySQL - MongoDB;
 * Clean code and SOLID;
 * Design Patterns;
+* Online Conversion;
 * GIT;
 * HTML;
 * CSS;
