@@ -4,13 +4,13 @@
 
 **Blog:** [leonardorifeli.com](https://leonardorifeli.com)
 
-**E-mail:** [leonardorifeli@gmail.com](mailto:me@leonardorifeli.com)
+**E-mail:** [leonardorifeli@gmail.com](mailto:leonardorifeli@gmail.com)
 
 **Linkedin:** [leonardorifeli](http://linkedin.com/in/leonardorifeli)
 
 **Skype:** leonardorifeli
 
-**Github:** leonardorifeli
+**Github:** [github.com/leonardorifeli](https://github.com/leonardorifeli)
 
 ## About
 
