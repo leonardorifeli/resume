@@ -14,11 +14,11 @@
 
 ## About
 
-My name is **Leonardo Rifeli**, I'm 20 years old and I live in Joinville (SC). I'm about three years in the Web market has since come acquiring and honing my experiences. I am currently a **software engineer** developer at the **[ContaAzul](http://contaazul.com)**. I'm studying a **BA** in **Computer Engineering**. Contribute to open source projects and the web community as a whole.
+I'm 20 years old and I live in Joinville (SC). I'm been working with development for four years. I currently act as a developer **software engineer** at the **[ContaAzul](http://contaazul.com)** and studying a **BA** in **Computer Engineering**.
 
-I'm communicative, organized and responsible. My focus is teamwork with commitment and enthusiasm to solve problems in the most viable way.
+And, I Contribute to open source projects :D.
 
-Seek new knowledge and challenges to be constantly evolving. Since very young I am passionate about technology, I suit there are changes, I always try to improve and pass on my knowledge.
+Seek new knowledge and challenges to be constantly evolving. I'm passionate about technology and I always try to improve and shared my knowledges.
 
 ## My Skills
 
