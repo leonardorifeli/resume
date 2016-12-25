@@ -27,17 +27,17 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 * Linux/OS X;
 * Amazon AWS;
 * Job Queues;
-* API REST;
+* Rest APIs;
+* JavaScript;
+* AngularJS;
+* Unitary tests and TDD;
 * MySQL - MongoDB;
 * Clean code and SOLID;
 * Design Patterns;
-* Online Conversion;
 * GIT;
-* HTML;
-* CSS;
+* HTML/CSS;
 * Scrum;
 * And more Skills;
-* What i do not know, i easily learn fast.
 
 ##Professional Experience
 
