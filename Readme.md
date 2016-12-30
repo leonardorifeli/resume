@@ -39,15 +39,15 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 * Scrum;
 * And more Skills;
 
-##Professional Experience
+## Professional experience
 
-**Software Engineer** * ContaAzul * 2016-09 * actual
-> Atuação como back-end nos desenvolvimentos de experimentos para conversão online. Pesquisas para melhorias internas. Tendo **Java** como linguagem padrão.
+**Software Engineer** * ContaAzul Software * 2016-09 * actual
+> Back-end development. Working with a/b tests and several conversion experiments. Using **Java** with default language.
 
 **Back-end Developer** * TAG Interativa * 2016-01 * 2016-09
->Desenvolvimento de sistemas e sites, modularização de processos, campo de pesquisa para implementação das melhores tecnologias envolvendo. Tendo **PHP** como linguagem padrão.
+> Back-end development. Working with websites, management systens, business analyst, etc. Using **PHP** with default language. I did work in [ND Online](ndonline.com.br) project.
 
-**Full Stack Developer** * Wab * 2013-04 * 2015-12
+**Full-stack Developer** * Wab * 2013-04 * 2015-12
 
 >Atuei nos diversos processos de desenvolvimento de sistemas e sites. Participando de reuniões para discussões dos mais variados projetos, com participação em todo o processo de desenvolvimento. Tendo **PHP** como linguagem padrão.
 
