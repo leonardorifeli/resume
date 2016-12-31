@@ -45,11 +45,11 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 > Back-end development. Working with a/b tests and several conversion experiments. Using **Java** with default language.
 
 **Back-end Developer** * TAG Interativa * 2016-01 * 2016-09
-> Back-end development. Working with websites, management systens, business analyst, etc. Using **PHP** with default language. I did work in [ND Online](ndonline.com.br) project.
+> Back-end development. Working with websites, management systems, business analyst, etc. Using **PHP** with default language. I did work in [ND Online](ndonline.com.br) project using several technologies (ElasticSearch per example).
 
 **Full-stack Developer** * Wab * 2013-04 * 2015-12
 
->Atuei nos diversos processos de desenvolvimento de sistemas e sites. Participando de reuniões para discussões dos mais variados projetos, com participação em todo o processo de desenvolvimento. Tendo **PHP** como linguagem padrão.
+> Working with websites, management systems, business analyst, support of users, etc. I did work in [Empório Basílico](https://www.emporiobasilico.com.br/), [Cadastro Royal Canin](http://cadastro.royalcanin.com.br/) and other projects.
 
 **Técnico** * R&G Informática * 2012-08 * 2013-03
 
