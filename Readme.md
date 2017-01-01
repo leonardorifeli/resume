@@ -51,15 +51,11 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 
 > Working with websites, management systems, business analyst, support of users, etc. I did work in [Empório Basílico](https://www.emporiobasilico.com.br/), [Cadastro Royal Canin](http://cadastro.royalcanin.com.br/) and other projects.
 
-**Técnico** * R&G Informática * 2012-08 * 2013-03
-
->Manutenções em servidores e redes de alta disponibilidade para empresas governamentais como: Polícia Rodoviária e DER (departamento de estradas de rodagem).
-
 ## Academic Education
 
-* BA in Computer Engineering – UNISOCIESC – Início em fevereiro de 2016 – Término previsto para dezembro de 2019
-* BA in Computer Engineering – Logatti – Início em fevereiro de 2015 – Transfer to **UNISOCIESC**
-* Ensino médio – E.E Ergilia Micelli – Término em dezembro de 2013
+* BA in Computer Engineering – UNISOCIESC – Started at February/2016 – Finished at July/2016 to study in UDESC;
+* BA in Computer Engineering – Logatti – Started at February/2015 – Transfer to **UNISOCIESC** at December/2015;
+* High school on E.E Ergilia Micelli – Finished at December/2013.
 
 ## Training
 
