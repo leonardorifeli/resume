@@ -51,7 +51,7 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 
 > Working with websites, management systems, business analyst, support of users, etc. I did work in [Empório Basílico](https://www.emporiobasilico.com.br/), [Cadastro Royal Canin](http://cadastro.royalcanin.com.br/) and other projects.
 
-## Academic Education
+## Academic education
 
 * BA in Computer Engineering – UNISOCIESC – Started at February/2016 – Finished at July/2016 to study in UDESC;
 * BA in Computer Engineering – Logatti – Started at February/2015 – Transfer to **UNISOCIESC** at December/2015;
@@ -59,19 +59,14 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 
 ## Training
 
-* Treinamento Online de PHP Orientado a Objetos - iMasters Cursos – Number A99B473
+* Online Training about PHPOO - iMasters Curses – Number A99B473
+* **Workload:** 24 hours
+* **Author:** João Batista Neto
 
-> Workload: 24h
-
-> Author: João Batista Neto
-
-* Treinamento Online de PHP+MySQL - IPED – Instituto Politécnico de Ensino a Distância – Number 254027
-
-> Start Day: 2013-11-03
-
-> End Day: 2013-11-21
-
-> Workload: 20h
+* Online Training about PHP and MySQL DB - IPED – Instituto Politécnico de Ensino a Distância – Number 254027
+* **Workload:** 20 hours
+* **Started at:** 2013-11-03
+* **Finished at:** 2013-11-21
 
 ## Events/Workshops
 
