@@ -68,25 +68,19 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 * **Started at:** 2013-11-03
 * **Finished at:** 2013-11-21
 
-## Events/Workshops
+## Events and workshops
 
 * PHP Experience – iMasters – held on 2015-04-25 – in São Paulo – SP – as congressman.
-
-> Workload: 8h
-
-> [Event website](http://phpexperience.imasters.com.br/)
+* **Workload:** 8 hours
+* **[Event website](http://phpexperience.imasters.com.br/)**
 
 * Devcommerce Conference – iMasters – held on 2015-06-20 – in São Paulo – SP – as a participant.
-
-> Workload: 8h
-
-> [Event website](http://devcommerce.imasters.com.br/)
+* **Workload:** 8 hours
+* **[Event website](http://devcommerce.imasters.com.br/)**
 
 * InterCon Arena – iMasters – held on 2014-11-15 – in São Paulo – SP – as a participant.
-
-> Workload: 8h
-
-> [Event website](http://intercon.imasters.com.br/)
+* **Workload**: 8h
+* **[Event website](http://intercon.imasters.com.br/)**
 
 * FrontInterior – held on 2014-08-29 and 2014-08-30 – in Bauru – SP – as a participant.
 
