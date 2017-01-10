@@ -14,7 +14,7 @@
 
 ## About
 
-I'm 20 years old and I live in Joinville (SC). I'm been working with development for four years. I currently act as a developer **software engineer** at the **[ContaAzul](http://contaazul.com)** and studying a **BA** in **Computer Engineering**.
+I'm 21 years old and I live in Joinville (SC). I'm been working with development for four years. I currently act as a developer **software engineer** at the **[ContaAzul](http://contaazul.com)** and studying a **BA** in **Computer Engineering**.
 
 And, I Contribute to open source projects :D.
 
