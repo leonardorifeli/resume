@@ -61,8 +61,8 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 ## Training
 
 * Online Training about PHPOO - iMasters Curses – Number A99B473
-* **Workload:** 24 hours
-* **Author:** João Batista Neto
+> **Workload:** 24 hours
+> **Author:** João Batista Neto
 
 * Online Training about PHP and MySQL DB - IPED – Instituto Politécnico de Ensino a Distância – Number 254027
 * **Workload:** 20 hours
@@ -98,4 +98,5 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 ## Aditional information
 
 **English Information:** Basic / Intermediate (reading, writing and speaking).
+
 Development projects to: ContaAzul, Anagê Imóveis, APIs to **Lança Perfume APP**, Grupo RIC, Notícias do dia, Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, other projects.
