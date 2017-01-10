@@ -53,6 +53,7 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 
 ## Academic education
 
+* Studing English - EnglishLive - Started at September/2016 - Finish'll at September/2017;
 * BA in Computer Engineering – UNISOCIESC – Started at February/2016 – Finished at July/2016 to study in UDESC;
 * BA in Computer Engineering – Logatti – Started at February/2015 – Transfer to **UNISOCIESC** at December/2015;
 * High school on E.E Ergilia Micelli – Finished at December/2013.
@@ -83,26 +84,18 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 * **[Event website](http://intercon.imasters.com.br/)**
 
 * FrontInterior – held on 2014-08-29 and 2014-08-30 – in Bauru – SP – as a participant.
-
-> Workload: 11h
-
-> [Event website](https://www.facebook.com/Frontinterior)
+* **Workload: 11h**
+* **[Event website](https://www.facebook.com/Frontinterior)**
 
 * InterCon PHP – iMasters – held on 19/07/2014 – in São Paulo - SP – as a participant.
-
-> Workload: 8h
-
-> [Event website](http://interconphp.imasters.com.br/)
+* **Workload: 8h**
+* **[Event website](http://interconphp.imasters.com.br/)**
 
 * SC DEV Summit – PHP SC – held on 2016-05-20 and 2016-05-21 – in Joinville - SC – as a participant.
+* **Workload: 16h**
+* **[Event website](http://scdevsummit.com.br/)**
 
-> Workload: 16h
+## Aditional information
 
-> [Event website](http://scdevsummit.com.br/)
-
-
-* English Information: Basic / Intermediate (reading, writing and speaking).
-
-## Aditional Information
-
-Development projects to: Anagê Imóveis, APIs to **Lança Perfume APP**, Grupo RIC, Notícias do dia, Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, entre outros.
+**English Information:** Basic / Intermediate (reading, writing and speaking).
+Development projects to: ContaAzul, Anagê Imóveis, APIs to **Lança Perfume APP**, Grupo RIC, Notícias do dia, Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, other projects.
