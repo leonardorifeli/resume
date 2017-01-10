@@ -82,22 +82,22 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 > **[Event website](http://devcommerce.imasters.com.br/)**
 
 * **InterCon Arena – iMasters – held on 2014-11-15 – in São Paulo – SP – as a participant.**
-> **Workload**: 8h
+> **Workload**: 8 hours
 
 > **[Event website](http://intercon.imasters.com.br/)**
 
 * **FrontInterior – held on 2014-08-29 and 2014-08-30 – in Bauru – SP – as a participant.**
-> **Workload: 11h**
+> **Workload:** 11 hours
 
 > **[Event website](https://www.facebook.com/Frontinterior)**
 
 * **InterCon PHP – iMasters – held on 19/07/2014 – in São Paulo - SP – as a participant.**
-> **Workload: 8h**
+> **Workload:** 8 hours
 
 > **[Event website](http://interconphp.imasters.com.br/)**
 
 * **SC DEV Summit – PHP SC – held on 2016-05-20 and 2016-05-21 – in Joinville - SC – as a participant.**
-> **Workload: 16h**
+> **Workload:** 16 hours
 
 > **[Event website](http://scdevsummit.com.br/)**
 
