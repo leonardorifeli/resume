@@ -42,7 +42,7 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 ## Professional experience
 
 **Software Engineer** * ContaAzul Software * 2016-09 * actual
-> Back-end development. Working with a/b tests and several conversion experiments. Using **Java** with default language.
+> Back-end development. Worked with a/b tests and several conversion experiments. I'm been working with bank integrations and APIs. Using **Java** with default language.
 
 **Back-end Developer** * TAG Interativa * 2016-01 * 2016-09
 > Back-end development. Working with websites, management systems, business analyst, etc. Using **PHP** with default language. I did work in [ND Online](ndonline.com.br) project using several technologies (ElasticSearch per example).
