@@ -24,6 +24,7 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 
 * Java;
 * PHP (version 5.6 and 7);
+* PHPOO;
 * Linux/OS X;
 * Amazon AWS;
 * Job Queues;
@@ -115,4 +116,4 @@ Seek new knowledge and challenges to be constantly evolving. I'm passionate abou
 ## Aditional information
 
 * **English Information:** Basic / Intermediate (reading, writing and speaking).
-* **Development projects to:** ContaAzul, Anagê Imóveis, APIs to **Lança Perfume APP**, Grupo RIC, Notícias do dia, Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, other projects.
+* **Development projects to:** ContaAzul, Anagê Imóveis, APIs to **Lança Perfume APP**, Grupo RIC, Notícias do dia, Royal Canin do Brasil, Banco Itaú, Chalu Imóveis, Grupo Provac, Clarins, UNESP (sviluppumbria), Cosfibel Group, FixCard Project and other projects.
